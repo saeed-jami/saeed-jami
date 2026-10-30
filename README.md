@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a programmer of electronic and computer systems.<br>- Also a professional snooker coach<br>- Author of 16 books<br>- Creator of the 4S coaching style<br>- And inventor of several devices
-
+I am a programmer of electronic and computer systems.<br>- Also a Professional Snooker and Pocket Billiards Coach, Federation of the Islamic Republic of Iran<br>- Author of 16 books<br>- Creator of the 4S coaching Method<br>- Inventor of several devices...
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@mrcoach147) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Mrcoach147) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saeed-jami2020) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mrcoach147) [![Telgram](https://img.shields.io/badge/telgram-%23FF0000.svg?logo=telgram&logoColor=white)](https://t.me/@mrcoach147) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saeedjami@yahoo.com) 
